@@ -3,7 +3,7 @@ Light Programmer
 
 Using a computer monitor that flashes black and white I'm able to push text into a microcontroller. I've used an ATmega168 for prototyping, with the analog comparator connected to the input capture feature of TIMER1. On every interrupt I change the edge sensing to capture the next.
 
-![Voltage divider schematic](https://github.com/szczys/Light-Programmer/blob/master/hardware/light-programmer-voltage-dividers.png "Voltage Dividers for inputs")
+![Voltage divider schematic](http://github.com/szczys/Light-Programmer/raw/master/hardware/light-programmer-voltage-dividers.png "Voltage Dividers for inputs")
 
 Manchester Coding
 -------------------
